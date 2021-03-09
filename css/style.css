@@ -1,0 +1,81 @@
+*{
+  
+    box-sizing: border-box;
+}
+
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.box{
+
+ width: 100%;
+  
+}
+
+h1{
+    text-align: center;
+   color: black;
+
+}
+
+section>p {
+    padding: 50px 15px 15px 15px;
+}
+
+section>h2
+{
+    float: right;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    margin: 0px;
+    width: 200px;
+    text-align: center;
+    font-style: Times;
+    font-size: 24px;
+    font-weight: bold;
+    height: 45px;
+    padding-top: 10px;
+}
+
+.h-1{
+  background-color: pink;
+}
+
+.h-2{
+  
+  background-color: red; 
+  color: white;
+}
+
+.h-3{
+   
+ background-color:  yellow;
+    
+   
+}
+
+
+
+
+
+
+.box-info{
+
+    border: 2px solid black;
+
+    float: left;
+    background-color: gray;
+  
+    margin:10px;
+
+}
+
+
+.w-1{
+    width: 33.33%;
+    float: left;
+}
+
+
+
